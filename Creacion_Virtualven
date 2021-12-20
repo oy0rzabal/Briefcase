@@ -1,0 +1,6 @@
+	Tutorial de instalacion de Virtualenv:
+
+python -m pip install --uservirtualenv
+
+#Crear entorno 
+python -m venv "nombre del entorno"
