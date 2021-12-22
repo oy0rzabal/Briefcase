@@ -26,6 +26,11 @@ cookiecutter https://github.com/platzi/curso-entorno-avanzado-ds --checkout cook
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#Intalacion en pip dentro de nuestro entorno creado anteriormente
+pip intall cookiecutter
+
+#Despues Iniciamos el proyecto:
+python3 -m cookiecutter https://github.com/platzi/curso-entorno-avanzado-ds --checkout estate_project
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
