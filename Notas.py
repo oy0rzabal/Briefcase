@@ -4,7 +4,7 @@ mkdir "Creamos la carpeta donde queremos instalar Cookiecutter"
 
 cd #Ingresamos a la carpeta creada anteriormente
 
-conda config --add channels conda-forg #Configurar para que se vaya directamente la intalacion a esa carpeta y a conda global
+conda config --add channels conda-forge #Configurar para que se vaya directamente la intalacion a esa carpeta y a conda global
 
 #Crear ambiente
 conda create --name "Nombre de la carpeta" cookiecutter=1.7.3
