@@ -2,4 +2,10 @@ Los subtitulos deberan estar con ### o con ##### si son necesarios se podra apli
 
 Codigo de data: # Para traer todo el data
 	<div class="data"> == 0
-		
+
+Se utilizara geopy.py para poder realizar coordenadas de los inmuebeles o oficinas Disponilbe.
+	se intalara:
+		pip install geopy
+
+Informacion y documentacion sobre requests:
+	https://docs.python-requests.org/es/latest/
