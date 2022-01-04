@@ -9,6 +9,7 @@ https://www.inmuebles24.com/oficinas-en-renta-en-acapulco-de-juarez.html
 #Lamudi_rerminado_incompleto data imcompleto es sobre los numero de ambientes
 https://www.lamudi.com.mx/guerrero/acapulco-de-juarez/offices/for-rent/
 
+#propiedades_Enproceso:
 https://propiedades.com/acapulco-de-juarez/oficinas-renta?pagina=2
 
 https://www.segundamano.mx/listados/oficinas-en-renta-acapulco
